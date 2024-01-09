@@ -17,11 +17,7 @@
 }
 
 .headerTop .logo {
-    font-size: 30px;
-    width: fit-content;
-    font-weight: bolder;
-    text-transform: uppercase;
-    font-family: 'Dancing Script', sans-serif;
+    width: 150px;
 }
 
 .searchBarContainer {
@@ -62,7 +58,7 @@
     cursor: pointer;
 }
 
-.userBadge .logo {
+.userBadge .badgeCircle {
     background-color: gray;
     border-radius: 100%;
     border: 1px solid black;

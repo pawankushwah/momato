@@ -13,3 +13,19 @@
     font-family: 'Comfortaa', sans-serif;
     letter-spacing: 1.2px;
 }
+
+a:active {
+    color: gray;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover {
+    color: rgb(52, 52, 208);
+}

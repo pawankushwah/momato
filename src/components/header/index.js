@@ -6,7 +6,7 @@ export default function Header({cities, selectedCity, onCityChange}) {
     const [searchBarValue, setSearchBarValue] = useState("");
     return (
         <div className="headerTop maxWidth">
-            <div className="logo">Momato</div>
+            <img src="/logo.png" alt="momato logo" className="logo" />
             <div className="searchBarContainer">
                 <div className="searchBar">
                     <div className="positionCenter">
@@ -22,7 +22,7 @@ export default function Header({cities, selectedCity, onCityChange}) {
                 </div>
             </div>
             <div className="positionCenter userBadge">
-                <div className="logo">
+                <div className="badgeCircle">
                     <i className="fi fi-ss-user"></i>
                 </div>
                 <div>Pawan</div>
