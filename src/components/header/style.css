@@ -1,0 +1,73 @@
+.headerTop {
+    height: 50px;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.headerTop .searchBar {
+    width: auto;
+    margin-right: 120px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.headerTop .logo {
+    font-size: 30px;
+    width: fit-content;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-family: 'Dancing Script', sans-serif;
+}
+
+.searchBarContainer {
+    flex: 1;
+    font-size: 50px;
+}
+
+.searchBar div i {
+    font-size: 20px;
+}
+
+.searchInputField {
+    width: 100%;
+    border-left: 1px solid black;
+    display: flex;  
+    align-items: center;
+    padding-left: 10px;
+}
+
+.searchInputField input {
+    font-size: 15px;
+    flex: 1;
+    padding-left: 10px;
+    width: auto;
+    border: none;
+    outline: none;
+}
+
+.searchBar select {
+    width: 150px;
+    font-size: 15px;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+}
+
+.userBadge {
+    cursor: pointer;
+}
+
+.userBadge .logo {
+    background-color: gray;
+    border-radius: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    margin-right: 5px;
+}

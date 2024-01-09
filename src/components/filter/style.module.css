@@ -1,0 +1,22 @@
+.filterButtonContainer {
+    display: flex;
+    gap: 10px;
+}
+
+.filterButton {
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: ghostwhite;
+    color: gray;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 10px;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+.filterButton:hover {
+    background-color: whitesmoke;
+}
