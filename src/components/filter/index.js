@@ -1,34 +1,6 @@
 import styles from "./style.module.css"
 
-export default function Filter() {
-    const buttonsData = [
-        {
-            buttonNo: 1,
-            text: "filter",
-            icon: "rr-settings-sliders"
-        },
-        {
-            buttonNo: 2,
-            text: "Rating 4.0+"
-        },
-        {
-            buttonNo: 3,
-            text: "Safe and Hygenic"
-        },
-        {
-            buttonNo: 4,
-            text: "Pure Veg"
-        },
-        {
-            buttonNo: 5,
-            text: "Delivery Time",
-            icon: "rr-priority-arrows"
-        },
-        {
-            buttonNo: 6,
-            text: "Great Offers"
-        }
-    ]
+export default function Filter({buttonsData}) {
     return (
         <div className={`${styles.filterButtonContainer} maxWidth`}>
             {

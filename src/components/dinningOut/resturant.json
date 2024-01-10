@@ -1,0 +1,4959 @@
+[
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400010,
+        "name": "GMB - Gopika Sweets & Restaurant",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/0/3400010/576989f643ffafe109ca1571ff31db21_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/0/3400010/576989f643ffafe109ca1571ff31db21_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/0/3400010/071fc6c5c0480fb041b72ff6d75a67a2_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "27.3K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.8",
+              "reviewCount": "530",
+              "reviewTextSmall": "530 Reviews",
+              "subtext": "530 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.8",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "26.7K",
+              "reviewTextSmall": "26.7K Reviews",
+              "subtext": "26.7K Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹500 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "18/165, Crystal Tower, Fatehabad Road, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/street-food/",
+            "name": "Street Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/mithai/",
+            "name": "Mithai"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹500 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/gmb-gopika-sweets-restaurant-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400010\",\"element_type\":\"listing\",\"rank\":70}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "chain_cta",
+          "text": "View all outlets",
+          "clickUrl": "/agra/restaurants/gmb-gopika-sweets-restaurant?category=2"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": [
+        {
+          "image": {
+            "url": "https://b.zmtcdn.com/MaxSafety/DiningBadge/a9e3f60f5ed05ff69a6bfa5eb87b442e1611745067.png",
+            "aspect_ratio": 2.66666666667
+          },
+          "text": "Follows all Max Safety measures for a safe dining experience"
+        }
+      ]
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20697478,
+        "name": "Eight Herbs Café",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/8/20697478/2f5a1e49824432905827abe457c4ad12_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/8/20697478/2f5a1e49824432905827abe457c4ad12_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/8/20697478/0b433f89aa4c7b368554d87991356dfd_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "13",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "0",
+              "reviewTextSmall": "0 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "13",
+              "reviewTextSmall": "13 Reviews",
+              "subtext": "13 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹900 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Civil Lines, Agra",
+          "address": "Shop 12, Ground Floor, Block 21, Emporium Block, Sanjay Place, Wazirpura, Civil Lines, Agra",
+          "localityUrl": "agra/civil-lines-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/cafes/",
+            "name": "Cafe"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/sandwich/",
+            "name": "Sandwich"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/burger/",
+            "name": "Burger"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/pizza/",
+            "name": "Pizza"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/momos/",
+            "name": "Momos"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/waffle/",
+            "name": "Waffle"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹900 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/eight-herbs-café-1-civil-lines/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.6 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20697478\",\"element_type\":\"listing\",\"rank\":71}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/eight-herbs-café-1-civil-lines/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3401013,
+        "name": "Bhagat Halwai",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3401013/ad4462ad60621885a6d4caf43c1b9a95_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/3/3401013/ad4462ad60621885a6d4caf43c1b9a95_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3401013/9b93e3dba8ea3f8c64cc3356a5e63039_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "62.7K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "1,333",
+              "reviewTextSmall": "1,333 Reviews",
+              "subtext": "1,333 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "61.4K",
+              "reviewTextSmall": "61.4K Reviews",
+              "subtext": "61.4K Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Shahganj, Agra",
+          "address": "62/1, Parashuram Nagar, Shahganj, Agra",
+          "localityUrl": "agra/shahganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/street-food/",
+            "name": "Street Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/bhagat-halwai-2-shahganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3401013\",\"element_type\":\"listing\",\"rank\":72}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 18966639,
+        "name": "Fakira",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/18966639/baba5ed1675a297be6603a679375a09b_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/9/18966639/baba5ed1675a297be6603a679375a09b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/18966639/60c53cf3c84daa49afbe9d0180e537b5_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.9",
+          "rating_text": "3.9",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "526",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.2",
+              "reviewCount": "237",
+              "reviewTextSmall": "237 Reviews",
+              "subtext": "237 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.2",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.5",
+              "reviewCount": "289",
+              "reviewTextSmall": "289 Reviews",
+              "subtext": "289 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.5",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹2,200 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Lohamandi, Agra",
+          "address": "Kar Kunj Chauraha, Avas Vikas Colony, Near Gurudwara Flyover, Lohamandi, Agra",
+          "localityUrl": "agra/lohamandi-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹2,200 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/fakira-lohamandi/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "5.6 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18966639\",\"element_type\":\"listing\",\"rank\":73}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/fakira-lohamandi/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19930279,
+        "name": "Romo's Junction",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/19930279/ff5a13428ee836cebd23e9d77c73cc36_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/9/19930279/ff5a13428ee836cebd23e9d77c73cc36_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/19930279/15a6a02960e226f993f71e7a7a1abf33_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.5",
+          "rating_text": "3.5",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "2,940",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.1",
+              "reviewCount": "25",
+              "reviewTextSmall": "25 Reviews",
+              "subtext": "25 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.9",
+              "reviewCount": "2,915",
+              "reviewTextSmall": "2,915 Reviews",
+              "subtext": "2,915 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.9",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Sikandra, Agra",
+          "address": "91, Avas Vikas Colony, Sector 9, Sikandra, Agra",
+          "localityUrl": "agra/sikandra-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/pizza/",
+            "name": "Pizza"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/momos/",
+            "name": "Momos"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/rolls/",
+            "name": "Rolls"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/romos-junction-sikandra/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19930279\",\"element_type\":\"listing\",\"rank\":74}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/romos-junction-sikandra/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400023,
+        "name": "Achman Foods",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3400023/9d808979a4432b7f8d6f9fe7e5bf7319_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/3/3400023/9d808979a4432b7f8d6f9fe7e5bf7319_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3400023/c3fb520bdb7e19834f96fde8cf743413_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "2,121",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "327",
+              "reviewTextSmall": "327 Reviews",
+              "subtext": "327 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.2",
+              "reviewCount": "1,794",
+              "reviewTextSmall": "1,794 Reviews",
+              "subtext": "1,794 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.2",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Khandari, Agra",
+          "address": "86, Bhagwan Talkies Crossing, NH 2, Bypass Road, Khandari, Agra",
+          "localityUrl": "agra/khandari-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/street-food/",
+            "name": "Street Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/achman-foods-khandari/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400023\",\"element_type\":\"listing\",\"rank\":75}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19275425,
+        "name": "The Sky Restaurant",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/5/19275425/99b11f8dad0ba57e7f67831b8c7c6665_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/5/19275425/99b11f8dad0ba57e7f67831b8c7c6665_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/5/19275425/cf6e8fa3ac8327eed29e93e32b8341dc_o2_featured_v2.jpeg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1,642",
+          "subtext": "REVIEW",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.9",
+              "reviewCount": "45",
+              "reviewTextSmall": "45 Reviews",
+              "subtext": "45 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.9",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "1,597",
+              "reviewTextSmall": "1,597 Reviews",
+              "subtext": "1,597 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹800 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Sikandra, Agra",
+          "address": "3rd Floor, Gemini Plaza, Karkoonj Road, Sikandra, Agra",
+          "localityUrl": "agra/sikandra-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹800 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/the-sky-restaurant-2-sikandra/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19275425\",\"element_type\":\"listing\",\"rank\":76}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20865468,
+        "name": "Theobroma",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/8/20865468/f189036b51df73ffe0a3ce7c844af586_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/8/20865468/f189036b51df73ffe0a3ce7c844af586_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/8/20865468/4d5cc34257cdd22a1f574f938abf882f_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.3",
+          "rating_text": "4.3",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "326",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "2",
+              "reviewTextSmall": "2 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.3",
+              "reviewCount": "324",
+              "reviewTextSmall": "324 Reviews",
+              "subtext": "324 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.3",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹300 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Khandari, Agra",
+          "address": "Shop 03, Ground Floor, Ram Raghu Pallazzo, Church Road, Khandari, Agra",
+          "localityUrl": "agra/khandari-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/bakery/",
+            "name": "Bakery"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹300 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/theobroma-khandari/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.2 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20865468\",\"element_type\":\"listing\",\"rank\":77}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19126302,
+        "name": "The Mud Shakes",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/19126302/54226131b0f8883ba578dd153e7bf882_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/19126302/54226131b0f8883ba578dd153e7bf882_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/19126302/9e23883e8a1e4df7882616eab910419b_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "4,704",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "276",
+              "reviewTextSmall": "276 Reviews",
+              "subtext": "276 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.3",
+              "reviewCount": "4,428",
+              "reviewTextSmall": "4,428 Reviews",
+              "subtext": "4,428 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.3",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹200 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Khandari, Agra",
+          "address": "3, Sanjay Place, Emporium Block, Khandari, Agra",
+          "localityUrl": "agra/khandari-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/shake/",
+            "name": "Shake"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/waffle/",
+            "name": "Waffle"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹200 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/the-mud-shakes-khandari/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19126302\",\"element_type\":\"listing\",\"rank\":78}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20439462,
+        "name": "Retro Thrill Cafe",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/20439462/e3c541077b7bdcaf1889b279c8b06ef3_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/20439462/e3c541077b7bdcaf1889b279c8b06ef3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/20439462/2632e2c1680156df019c9d60e2a5a617_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.8",
+          "rating_text": "3.8",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "321",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.9",
+              "reviewCount": "6",
+              "reviewTextSmall": "6 Reviews",
+              "subtext": "6 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.9",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.6",
+              "reviewCount": "315",
+              "reviewTextSmall": "315 Reviews",
+              "subtext": "315 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.6",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹800 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Sikandra, Agra",
+          "address": "Shop 3, Lower Ground Floor, Anthem, Avas Vikas Colony, Pocket A, Sector 15, Sikandra, Agra",
+          "localityUrl": "agra/sikandra-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODJcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/pizza/",
+            "name": "Pizza"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/burger/",
+            "name": "Burger"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/rolls/",
+            "name": "Rolls"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/biryani/",
+            "name": "Biryani"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹800 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/retro-thrill-cafe-sikandra/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "5.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20439462\",\"element_type\":\"listing\",\"rank\":79}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/retro-thrill-cafe-sikandra/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20692133,
+        "name": "Starbucks Coffee",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/3/20692133/42e953ba50a7125b0758b0a98f58a716_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/3/20692133/42e953ba50a7125b0758b0a98f58a716_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/3/20692133/163aa2d5720ce597203370afb1357c90_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "239",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "3",
+              "reviewTextSmall": "3 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.2",
+              "reviewCount": "236",
+              "reviewTextSmall": "236 Reviews",
+              "subtext": "236 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.2",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹900 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "Khasra 785, Mauza Basai Mustakil, East Gate Road, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/cafes/",
+            "name": "Cafe"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/coffee/",
+            "name": "Coffee"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹900 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/starbucks-coffee-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.3 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20692133\",\"element_type\":\"listing\",\"rank\":80}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400566,
+        "name": "Taj Terrace - Hotel Taj Resorts",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/3400566/49771b32b494f3e1f19be6b59b6385e4_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/3400566/49771b32b494f3e1f19be6b59b6385e4_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/6/3400566/45d9360347f91c3a24806cbed327337c_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "49",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.2",
+              "reviewCount": "48",
+              "reviewTextSmall": "48 Reviews",
+              "subtext": "48 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.2",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "",
+              "reviewCount": "1",
+              "reviewTextSmall": "1 Reviews",
+              "subtext": "Does not offer Delivery",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹1,000 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "Khasra 538, Mauza Basai Mustkil, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/shake/",
+            "name": "Shake"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹1,000 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/taj-terrace-hotel-taj-resorts-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.3 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400566\",\"element_type\":\"listing\",\"rank\":81}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/taj-terrace-hotel-taj-resorts-tajganj/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400282,
+        "name": "Aahar",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/3400282/55a7cc9bd89412e3d93d9476c0eb61e3_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/3400282/55a7cc9bd89412e3d93d9476c0eb61e3_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/2/3400282/e34e7dbefa2f5c757602cefbf3a20dd7_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "39.2K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "648",
+              "reviewTextSmall": "648 Reviews",
+              "subtext": "648 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "38.6K",
+              "reviewTextSmall": "38.6K Reviews",
+              "subtext": "38.6K Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹700 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Civil Lines, Agra",
+          "address": "26/118, Sanjay Place, Opposite Income Tax Building, Civil Lines, Agra",
+          "localityUrl": "agra/civil-lines-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/bakery/",
+            "name": "Bakery"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹700 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/aahar-civil-lines/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400282\",\"element_type\":\"listing\",\"rank\":82}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 18691851,
+        "name": "Hotel Orange",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/1/18691851/8f55d68febc9abc9bc2f0929e3e45c34_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/1/18691851/8f55d68febc9abc9bc2f0929e3e45c34_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/1/18691851/2d6fe9e835323df4c57ca504b7782688_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.3",
+          "rating_text": "4.3",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "220",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.6",
+              "reviewCount": "79",
+              "reviewTextSmall": "79 Reviews",
+              "subtext": "79 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.6",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "800"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.9",
+              "reviewCount": "141",
+              "reviewTextSmall": "141 Reviews",
+              "subtext": "141 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.9",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹1,200 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Rakabganj, Agra",
+          "address": "Pratappura Crossing, Rakabganj, Agra",
+          "localityUrl": "agra/rakabganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/mughlai/",
+            "name": "Mughlai"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/biryani/",
+            "name": "Biryani"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹1,200 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/hotel-orange-rakabganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "1.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18691851\",\"element_type\":\"listing\",\"rank\":83}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/hotel-orange-rakabganj/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19648174,
+        "name": "Dasaprakash - A South Indian Cafe",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/19648174/ec98443ecc5b5ef14c52bbe7bb954051_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/4/19648174/ec98443ecc5b5ef14c52bbe7bb954051_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/19648174/e2799ad8c85e9afbd6b46fdcb2eb7581_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.4",
+          "rating_text": "3.4",
+          "rating_subtitle": "Average",
+          "rating_color": "CDD614",
+          "votes": "740",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.3",
+              "reviewCount": "12",
+              "reviewTextSmall": "12 Reviews",
+              "subtext": "12 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.3",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.4",
+              "reviewCount": "728",
+              "reviewTextSmall": "728 Reviews",
+              "subtext": "728 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.4",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹800 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "18/162, M.P. Pura, Fatehabad Road, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹800 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/dasaprakash-a-south-indian-cafe-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19648174\",\"element_type\":\"listing\",\"rank\":84}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "chain_cta",
+          "text": "View all outlets",
+          "clickUrl": "/agra/restaurants/dasaprakash-a-south-indian-cafe?category=2"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400013,
+        "name": "Merry Go Round",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3400013/9a3c1c37f7b91fa9d686065abf04d04d_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/3/3400013/9a3c1c37f7b91fa9d686065abf04d04d_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/3400013/e5c8e2dfc819aaae6b9b567ca6fa7cbd_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.4",
+          "rating_text": "3.4",
+          "rating_subtitle": "Average",
+          "rating_color": "CDD614",
+          "votes": "49",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.0",
+              "reviewCount": "28",
+              "reviewTextSmall": "28 Reviews",
+              "subtext": "28 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.7",
+              "reviewCount": "21",
+              "reviewTextSmall": "21 Reviews",
+              "subtext": "21 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.7",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹1,300 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Hotel Pushp Villa, Tajganj, Agra",
+          "address": "Hotel Pushp Villa, Taj Mahal Gate, VIP Road, Tajganj, Agra",
+          "localityUrl": "agra/restaurants/in/hotel-pushp-villa-tajganj"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹1,300 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 25,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "25% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/merry-go-round-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.5 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400013\",\"element_type\":\"listing\",\"rank\":85}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/merry-go-round-tajganj/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20496534,
+        "name": "Tipsy Grill",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/20496534/32685449510aca21ff5b255b6a4017d5_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/4/20496534/32685449510aca21ff5b255b6a4017d5_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/20496534/b2b101eacc465952984eef7df8b7f14e_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.6",
+          "rating_text": "3.6",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "286",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.2",
+              "reviewCount": "20",
+              "reviewTextSmall": "20 Reviews",
+              "subtext": "20 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.2",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "266",
+              "reviewTextSmall": "266 Reviews",
+              "subtext": "266 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Khandari, Agra",
+          "address": "A3/1, Lawyers Colony, Bye Pass Road, Khandari, Agra",
+          "localityUrl": "agra/khandari-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/burger/",
+            "name": "Burger"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/waffle/",
+            "name": "Waffle"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/tipsy-grill-khandari/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.4 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20496534\",\"element_type\":\"listing\",\"rank\":86}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400062,
+        "name": "Mughal Pavilion - ITC Mughal",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/3400062/f50d154b07cfb88ce24a5c116024306c_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/3400062/f50d154b07cfb88ce24a5c116024306c_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": false
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "114",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "114",
+              "reviewTextSmall": "114 Reviews",
+              "subtext": "114 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "",
+              "reviewCount": "0",
+              "reviewTextSmall": "0 Reviews",
+              "subtext": "Does not offer Delivery",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹2,500 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "ITC Mughal, Tajganj, Agra",
+          "address": "ITC Mughal, Fatehabad Road, Tajganj, Agra",
+          "localityUrl": "agra/restaurants/in/itc-mughal-tajganj"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹2,500 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/mughal-pavilion-itc-mughal-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.1 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400062\",\"element_type\":\"listing\",\"rank\":87}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20795856,
+        "name": "Vada Pav King",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/20795856/57257d1fda1f74a02c30a5787f69d4f7_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/20795856/57257d1fda1f74a02c30a5787f69d4f7_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/20795856/f21533ea9e68226a0290a8478437644c_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.8",
+          "rating_text": "3.8",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "84",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.5",
+              "reviewCount": "11",
+              "reviewTextSmall": "11 Reviews",
+              "subtext": "11 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.5",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "73",
+              "reviewTextSmall": "73 Reviews",
+              "subtext": "73 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹350 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "Rajpur Chungi, Opposite Raj Dairy, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/maharashtrian/",
+            "name": "Maharashtrian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/street-food/",
+            "name": "Street Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/burger/",
+            "name": "Burger"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/sandwich/",
+            "name": "Sandwich"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/rolls/",
+            "name": "Rolls"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹350 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/vada-pav-king-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.3 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20795856\",\"element_type\":\"listing\",\"rank\":88}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19526917,
+        "name": "D'zurt Cafe",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/19526917/7e0c8ab7f5bb17597eed6b57eca3f575_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/19526917/7e0c8ab7f5bb17597eed6b57eca3f575_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/19526917/72c7b946df07c0d72499a6dc4ce4d7db_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1,643",
+          "subtext": "REVIEW",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "37",
+              "reviewTextSmall": "37 Reviews",
+              "subtext": "37 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.2",
+              "reviewCount": "1,606",
+              "reviewTextSmall": "1,606 Reviews",
+              "subtext": "1,606 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.2",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹800 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Kamla Nagar, Agra",
+          "address": "Shop 2, Floor 1, Krishna Arcade, Main Market, Opposite Canara Bank, Kamla Nagar, Agra",
+          "localityUrl": "agra/kamla-nagar-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/cafes/",
+            "name": "Cafe"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY4XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/burger/",
+            "name": "Burger"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/sandwich/",
+            "name": "Sandwich"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyNFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/wraps/",
+            "name": "Wraps"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/momos/",
+            "name": "Momos"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/street-food/",
+            "name": "Street Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹800 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/dzurt-cafe-kamla-nagar/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19526917\",\"element_type\":\"listing\",\"rank\":89}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20451777,
+        "name": "Sardar G Malai Chaap Junction",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/20451777/ce1628e2e4ec6db63c8b4f496268b6c0_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/20451777/ce1628e2e4ec6db63c8b4f496268b6c0_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/20451777/fcd806a1bc1891165726bca02c645549_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "2,714",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.8",
+              "reviewCount": "47",
+              "reviewTextSmall": "47 Reviews",
+              "subtext": "47 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.8",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "2,667",
+              "reviewTextSmall": "2,667 Reviews",
+              "subtext": "2,667 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹300 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Civil Lines, Agra",
+          "address": "Shop 24/11, Emporium Sanjay Place, Block G/39, Civil Lines, Agra",
+          "localityUrl": "agra/civil-lines-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAyM1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/rolls/",
+            "name": "Rolls"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/momos/",
+            "name": "Momos"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹300 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/sardar-g-malai-chaap-junction-civil-lines/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.6 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20451777\",\"element_type\":\"listing\",\"rank\":90}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/sardar-g-malai-chaap-junction-civil-lines/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20953429,
+        "name": "Sarpanch",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/20953429/3e069e72ed5fabbd7266692eee450945_o2_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/9/20953429/3e069e72ed5fabbd7266692eee450945_o2_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/20953429/3e069e72ed5fabbd7266692eee450945_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "NEW",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "8",
+          "subtext": "REVIEWS",
+          "is_new": true
+        },
+        "ratingNew": {
+          "newlyOpenedObj": {
+            "text": "Newly Opened",
+            "color": "#FFFFFF",
+            "bgColor": "#F4A266",
+            "bgColorV2": {
+              "type": "green",
+              "tint": "100"
+            },
+            "subtitle": "OUTLET",
+            "ratingV2": "New"
+          },
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "2",
+              "reviewTextSmall": "2 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": true
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "",
+              "reviewCount": "6",
+              "reviewTextSmall": "6 Reviews",
+              "subtext": "Does not offer Delivery",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹600 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Civil Lines, Agra",
+          "address": "Shop-G3, Block 32/2/4, Ground Floor, Opposite LIC Building, Civil Lines, Agra",
+          "localityUrl": "agra/civil-lines-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA0MFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/coffee/",
+            "name": "Coffee"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjMzXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/ice-cream/",
+            "name": "Ice Cream"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹600 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/sarpanch-civil-lines/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20953429\",\"element_type\":\"listing\",\"rank\":91}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/sarpanch-civil-lines/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400177,
+        "name": "Deviram Sweets & Restaurant",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/3400177/9975efec546381cd2c2100d961971779_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/3400177/9975efec546381cd2c2100d961971779_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/7/3400177/22ebd227dec12d2eae482ee3bf31a0b9_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.2",
+          "rating_text": "4.2",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "6,178",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.3",
+              "reviewCount": "262",
+              "reviewTextSmall": "262 Reviews",
+              "subtext": "262 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.3",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "5,916",
+              "reviewTextSmall": "5,916 Reviews",
+              "subtext": "5,916 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹650 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Rakabganj, Agra",
+          "address": "Pratappura Crossing, Rakabganj, Agra",
+          "localityUrl": "agra/rakabganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/mithai/",
+            "name": "Mithai"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/desserts/",
+            "name": "Desserts"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹650 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/deviram-sweets-restaurant-rakabganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "1.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400177\",\"element_type\":\"listing\",\"rank\":92}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400024,
+        "name": "Temptation",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/3400024/d16dae09f9319c0784da9068156baa38_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/4/3400024/d16dae09f9319c0784da9068156baa38_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/4/3400024/d9449fd4d5febb68a66caa0cce25a7ad_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "1,010",
+          "subtext": "REVIEW",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "358",
+              "reviewTextSmall": "358 Reviews",
+              "subtext": "358 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "652",
+              "reviewTextSmall": "652 Reviews",
+              "subtext": "652 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹1,000 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Kamla Nagar, Agra",
+          "address": "B 87, Central Bank Road, Kamla Nagar, Agra",
+          "localityUrl": "agra/kamla-nagar-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹1,000 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/temptation-kamla-nagar/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400024\",\"element_type\":\"listing\",\"rank\":93}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400582,
+        "name": "Wonder Terrace Bar & Kitchen",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/3400582/57cc0f7448b1cd8fe2ed2cb6db9688fa_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/3400582/57cc0f7448b1cd8fe2ed2cb6db9688fa_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": false
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "46",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "46",
+              "reviewTextSmall": "46 Reviews",
+              "subtext": "46 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "",
+              "reviewCount": "0",
+              "reviewTextSmall": "0 Reviews",
+              "subtext": "Does not offer Delivery",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹3,500 for two"
+        },
+        "cfo": {
+          "text": "₹1,400 for one"
+        },
+        "locality": {
+          "name": "Radisson Hotel Agra, Tajganj, Agra",
+          "address": "C-1 & C-2, Fatehabad Road, Taj Nagari Phase 1, Tajganj, Agra",
+          "localityUrl": "agra/restaurants/in/radisson-hotel-agra-tajganj"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcxXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/finger-food/",
+            "name": "Finger Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTkzXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/bbq/",
+            "name": "BBQ"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹3,500 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/wonder-terrace-bar-kitchen-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.2 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400582\",\"element_type\":\"listing\",\"rank\":94}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/wonder-terrace-bar-kitchen-tajganj/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20475510,
+        "name": "Azuri",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/0/20475510/cdec0c2cde3bcb48244a82b79ed7b6ca_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/0/20475510/cdec0c2cde3bcb48244a82b79ed7b6ca_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/0/20475510/952f4a54d1713ddcf2730133002363ca_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "18",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "1",
+              "reviewTextSmall": "1 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "17",
+              "reviewTextSmall": "17 Reviews",
+              "subtext": "17 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹700 for two"
+        },
+        "cfo": {
+          "text": "₹300 for one"
+        },
+        "locality": {
+          "name": "Kamla Nagar, Agra",
+          "address": "B-45, Central Bank Road, Kamla Nagar, Agra",
+          "localityUrl": "agra/kamla-nagar-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/italian/",
+            "name": "Italian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTY0XCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/juices/",
+            "name": "Juices"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹700 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/azuri-kamla-nagar/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.5 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20475510\",\"element_type\":\"listing\",\"rank\":95}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/azuri-kamla-nagar/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400416,
+        "name": "Plush Bar",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/3400416/196b3978ae15acafb386dc0d4adb693f_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/3400416/196b3978ae15acafb386dc0d4adb693f_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": false
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.9",
+          "rating_text": "3.9",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "4",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.9",
+              "reviewCount": "4",
+              "reviewTextSmall": "4 Reviews",
+              "subtext": "4 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.9",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "",
+              "reviewCount": "0",
+              "reviewTextSmall": "0 Reviews",
+              "subtext": "Does not offer Delivery",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹2,700 for two"
+        },
+        "cfo": {
+          "text": "₹1,100 for one"
+        },
+        "locality": {
+          "name": "DoubleTree by Hilton Hotel Agra, Tajganj, Agra",
+          "address": "BH-1 & 2, Taj Nagri, Phase II, Tajganj, Agra",
+          "localityUrl": "agra/restaurants/in/doubletree-by-hilton-hotel-agra-tajganj"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/continental/",
+            "name": "Continental"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹2,700 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 25,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "25% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/plush-bar-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4.3 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400416\",\"element_type\":\"listing\",\"rank\":96}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/plush-bar-tajganj/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400130,
+        "name": "Manoj Restaurant",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/0/3400130/d64204106642495e9cf1531997dac0d7_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/0/3400130/d64204106642495e9cf1531997dac0d7_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/0/3400130/ab23ba5cdbaa14bda9d290f2d34c311a_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "3,742",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "667",
+              "reviewTextSmall": "667 Reviews",
+              "subtext": "667 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "3,075",
+              "reviewTextSmall": "3,075 Reviews",
+              "subtext": "3,075 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹300 for two"
+        },
+        "cfo": {
+          "text": "₹150 for one"
+        },
+        "locality": {
+          "name": "Mantola, Agra",
+          "address": "1/43, Johari Bazar Road, Kinari Bazar, Near Railway Station, Mantola, Agra",
+          "localityUrl": "agra/mantola-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹300 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/manoj-restaurant-mantola/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "546 m",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400130\",\"element_type\":\"listing\",\"rank\":97}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400469,
+        "name": "Papa Ji Da Dhaba",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/3400469/9c5454699c3a6d0a134fc2b5aafc2f7a_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/9/3400469/9c5454699c3a6d0a134fc2b5aafc2f7a_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/9/3400469/082ad4a04e47dd2b8d4e263c2fbb9a39_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "17.7K",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.1",
+              "reviewCount": "510",
+              "reviewTextSmall": "510 Reviews",
+              "subtext": "510 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.1",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "17.2K",
+              "reviewTextSmall": "17.2K Reviews",
+              "subtext": "17.2K Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹250 for two"
+        },
+        "cfo": {
+          "text": "₹100 for one"
+        },
+        "locality": {
+          "name": "Civil Lines, Agra",
+          "address": "Delhi Gate, Raja Mandi Station Road, Civil Lines, Agra",
+          "localityUrl": "agra/civil-lines-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹250 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/papa-ji-da-dhaba-civil-lines/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.7 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400469\",\"element_type\":\"listing\",\"rank\":98}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400487,
+        "name": "Om Restaurant",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/3400487/e0a7efeec74cad68ef97c3ea56e9d52b_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/3400487/e0a7efeec74cad68ef97c3ea56e9d52b_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/3400487/e20832df26042effd751bd64cb84aa6e_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "395",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.6",
+              "reviewCount": "94",
+              "reviewTextSmall": "94 Reviews",
+              "subtext": "94 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.6",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.3",
+              "reviewCount": "301",
+              "reviewTextSmall": "301 Reviews",
+              "subtext": "301 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.3",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹200 for one"
+        },
+        "locality": {
+          "name": "Agra Cantt, Agra",
+          "address": "Saudagar Lines, Chat Gali,Sadar Bazaar, Agra Cantt, Agra",
+          "localityUrl": "agra/agra-cantt-restaurants"
+        },
+        "timing": {
+          "text": "Closes in 1 hour 48 minutes",
+          "color": "#e5521f"
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/om-restaurant-agra-cantt/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "2.5 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400487\",\"element_type\":\"listing\",\"rank\":99}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400696,
+        "name": "The Forest",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/3400696/e007d3178a536e8220cbfa9fdc7d67b9_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/3400696/e007d3178a536e8220cbfa9fdc7d67b9_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/6/3400696/73013e68a666b09fdedde33164444a64_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.8",
+          "rating_text": "3.8",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "1,125",
+          "subtext": "REVIEW",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "278",
+              "reviewTextSmall": "278 Reviews",
+              "subtext": "278 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.6",
+              "reviewCount": "847",
+              "reviewTextSmall": "847 Reviews",
+              "subtext": "847 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.6",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹800 for two"
+        },
+        "cfo": {
+          "text": "₹350 for one"
+        },
+        "locality": {
+          "name": "Sikandra, Agra",
+          "address": "2A/Sec 4B, Etah Plaza, Avas Vikas Colony, Central Park Road, Sikandra, Agra",
+          "localityUrl": "agra/sikandra-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/italian/",
+            "name": "Italian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹800 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 10,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "10% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/the-forest-sikandra/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "5.5 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400696\",\"element_type\":\"listing\",\"rank\":100}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/the-forest-sikandra/book"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20908096,
+        "name": "Taste Of Tandoor",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/20908096/afce409cfb196f88b0b6e7bc2f74e250_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/6/20908096/afce409cfb196f88b0b6e7bc2f74e250_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/6/20908096/1a9c4f9fecb093496d3475c7ca90e5f6_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.3",
+          "rating_text": "4.3",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "57",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "2",
+              "reviewTextSmall": "2 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.3",
+              "reviewCount": "55",
+              "reviewTextSmall": "55 Reviews",
+              "subtext": "55 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.3",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹500 for two"
+        },
+        "cfo": {
+          "text": "₹200 for one"
+        },
+        "locality": {
+          "name": "Sikandra, Agra",
+          "address": "Shop 19, Garden Gallery, Avas Vikas Colony, Sector 9, Sikandra, Agra",
+          "localityUrl": "agra/sikandra-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNzVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/mughlai/",
+            "name": "Mughlai"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/biryani/",
+            "name": "Biryani"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹500 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/taste-of-tandoor-sikandra/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "6.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20908096\",\"element_type\":\"listing\",\"rank\":101}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 19726862,
+        "name": "Star Ultimate Pizza",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/2/19726862/e333d1e9aaed37687a924f2807afaf84_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/2/19726862/e333d1e9aaed37687a924f2807afaf84_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/0/19553770/17cecac2d60d9bfcb87f8861037236ec_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "3,424",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "58",
+              "reviewTextSmall": "58 Reviews",
+              "subtext": "58 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "3,366",
+              "reviewTextSmall": "3,366 Reviews",
+              "subtext": "3,366 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹400 for two"
+        },
+        "cfo": {
+          "text": "₹200 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "31/168, Bake Rajpur Chungi, Shamsabad Road, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NFwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/pasta/",
+            "name": "Pasta"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+            "url": "https://www.zomato.com/agra/restaurants/beverages/",
+            "name": "Beverages"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹400 for two"
+        }
+      },
+      "order": [],
+      "gold": {
+        "instant": 15,
+        "welcome_offer": false,
+        "gold_offer": true,
+        "text": "Flat",
+        "offerValue": "15% OFF",
+        "isGoldIcon": true
+      },
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/star-ultimate-pizza-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.3 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19726862\",\"element_type\":\"listing\",\"rank\":102}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [
+        {
+          "type": "booking_cta",
+          "text": "Book a Table",
+          "clickUrl": "/agra/star-ultimate-pizza-tajganj/book"
+        },
+        {
+          "type": "chain_cta",
+          "text": "View all outlets",
+          "clickUrl": "/agra/restaurants/star-ultimate-pizza?category=2"
+        }
+      ],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 20717953,
+        "name": "Meet N Eat Onwheel",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/20717953/cbd7d3efaf21d7886f377f7e7b3a00c8_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/3/20717953/cbd7d3efaf21d7886f377f7e7b3a00c8_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/3/20717953/78ff9005d2c7cff7ad499f6c029b3ab8_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "3.5",
+          "rating_text": "3.5",
+          "rating_subtitle": "Good",
+          "rating_color": "9ACD32",
+          "votes": "16",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "",
+              "reviewCount": "2",
+              "reviewTextSmall": "2 Reviews",
+              "subtext": "Does not offer Dining",
+              "color": "",
+              "ratingV2": "-",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "grey",
+                "tint": "500"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "3.5",
+              "reviewCount": "14",
+              "reviewTextSmall": "14 Reviews",
+              "subtext": "14 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "3.5",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹300 for two"
+        },
+        "cfo": {
+          "text": "₹150 for one"
+        },
+        "locality": {
+          "name": "Dayal Bagh, Agra",
+          "address": "55, R S Bagh, Near Dayal Bagh, Agra",
+          "localityUrl": "agra/dayal-bagh-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹300 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/meet-n-eat-onwheel-dayal-bagh/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "5.9 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20717953\",\"element_type\":\"listing\",\"rank\":103}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400298,
+        "name": "Manoj Dhaba",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/8/3400298/202cbcb93b85891b23ef2911c09e10a7_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/chains/8/3400298/202cbcb93b85891b23ef2911c09e10a7_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/chains/8/3400298/24f8a6987c97379e5903624a81011cd6_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.0",
+          "rating_text": "4.0",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "5,134",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "3.9",
+              "reviewCount": "281",
+              "reviewTextSmall": "281 Reviews",
+              "subtext": "281 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "3.9",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "600"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.0",
+              "reviewCount": "4,853",
+              "reviewTextSmall": "4,853 Reviews",
+              "subtext": "4,853 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.0",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹500 for two"
+        },
+        "cfo": {
+          "text": "₹200 for one"
+        },
+        "locality": {
+          "name": "Dayal Bagh, Agra",
+          "address": "Shop 522, Bhagwan Xing, Dayal Bagh, Agra",
+          "localityUrl": "agra/dayal-bagh-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹500 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/manoj-dhaba-dayal-bagh/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "3.8 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400298\",\"element_type\":\"listing\",\"rank\":104}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    },
+    {
+      "type": "restaurant",
+      "info": {
+        "resId": 3400307,
+        "name": "Deviram Sweets & Food Plaza",
+        "image": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/3400307/93a0c82361688c34138616f542d33943_featured_v2.jpg",
+          "urlWithParams": "https://b.zmtcdn.com/data/pictures/7/3400307/93a0c82361688c34138616f542d33943_featured_v2.jpg?fit=around%7C108%3A108&crop=108%3A108%3B%2A%2C%2A"
+        },
+        "o2FeaturedImage": {
+          "url": "https://b.zmtcdn.com/data/pictures/7/3400307/18ae5e27c233f305a362919611c06bd8_o2_featured_v2.jpg"
+        },
+        "rating": {
+          "has_fake_reviews": 0,
+          "aggregate_rating": "4.1",
+          "rating_text": "4.1",
+          "rating_subtitle": "Very Good",
+          "rating_color": "5BA829",
+          "votes": "5,492",
+          "subtext": "REVIEWS",
+          "is_new": false
+        },
+        "ratingNew": {
+          "newlyOpenedObj": null,
+          "suspiciousReviewObj": null,
+          "ratings": {
+            "DINING": {
+              "rating_type": "DINING",
+              "rating": "4.0",
+              "reviewCount": "119",
+              "reviewTextSmall": "119 Reviews",
+              "subtext": "119 Dining Reviews",
+              "color": "#1C1C1C",
+              "ratingV2": "4.0",
+              "subtitle": "DINING",
+              "sideSubTitle": "Dining Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDining": false
+            },
+            "DELIVERY": {
+              "rating_type": "DELIVERY",
+              "rating": "4.1",
+              "reviewCount": "5,373",
+              "reviewTextSmall": "5,373 Reviews",
+              "subtext": "5,373 Delivery Reviews",
+              "color": "#E23744",
+              "ratingV2": "4.1",
+              "subtitle": "DELIVERY",
+              "sideSubTitle": "Delivery Reviews",
+              "bgColorV2": {
+                "type": "green",
+                "tint": "700"
+              },
+              "newOnDelivery": false
+            }
+          }
+        },
+        "cft": {
+          "text": "₹450 for two"
+        },
+        "cfo": {
+          "text": "₹200 for one"
+        },
+        "locality": {
+          "name": "Tajganj, Agra",
+          "address": "Near Shaheed Nagar Police Station, Shree Ji Dham Complex, Shamshabad Road, Tajganj, Agra",
+          "localityUrl": "agra/tajganj-restaurants"
+        },
+        "timing": {
+          "text": "",
+          "color": ""
+        },
+        "cuisine": [
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAxNVwiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/mithai/",
+            "name": "Mithai"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/north-indian/",
+            "name": "North Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/fast-food/",
+            "name": "Fast Food"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/chinese/",
+            "name": "Chinese"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+            "url": "https://www.zomato.com/agra/restaurants/south-indian/",
+            "name": "South Indian"
+          },
+          {
+            "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+            "url": "https://www.zomato.com/agra/restaurants/biryani/",
+            "name": "Biryani"
+          }
+        ],
+        "should_ban_ugc": false,
+        "costText": {
+          "text": "₹450 for two"
+        }
+      },
+      "order": [],
+      "gold": [],
+      "takeaway": [],
+      "cardAction": {
+        "text": "",
+        "clickUrl": "/agra/deviram-sweets-food-plaza-tajganj/info",
+        "clickActionDeeplink": ""
+      },
+      "distance": "4 km",
+      "isPromoted": false,
+      "promotedText": "",
+      "trackingData": [
+        {
+          "table_name": "zsearch_events_log",
+          "payload": "{\"search_id\":\"04730b34-35ed-4c97-8ec0-a1ebbbc951d7\",\"location_type\":\"delivery_cell\",\"location_id\":\"4140058016516931584\",\"page_type\":\"dineout\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"3400307\",\"element_type\":\"listing\",\"rank\":105}",
+          "event_names": {
+            "tap": "{\"action\":\"tap\"}",
+            "impression": "{\"action\":\"impression\"}"
+          }
+        }
+      ],
+      "allCTA": [],
+      "promoOffer": "",
+      "checkBulkOffers": false,
+      "bulkOffers": [],
+      "isDisabled": false,
+      "bottomContainers": []
+    }
+  ]

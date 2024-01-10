@@ -41,6 +41,25 @@
     height: 300px;
     display: flex;
     justify-content: center;
+    position: relative;
+}
+
+.offerStrip {
+    position: absolute;
+    left: 0;
+    bottom: 15px;
+    color: goldenrod;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(90deg, rgb(12, 14, 17) 0%, rgb(12, 14, 17) 25%, rgb(12, 14, 17) 50%, rgba(12, 14, 17, 0.8) 80%, rgba(12, 14, 17, 0) 100%);
+    padding: 2px 50px 2px 14px;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.resturantImage .goldIcon {
+    width: 20px;
 }
 
 .ratingIcon {

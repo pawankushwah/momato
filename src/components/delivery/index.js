@@ -1,6 +1,6 @@
 import Slider from "react-slick";
 import Filter from "../filter/index"
-import "./style.css"
+import styles from "./style.module.css"
 import resturantData from "./resturant.json"
 import { useEffect, useState } from "react";
 
@@ -114,6 +114,35 @@ const topBrand = [
     },
 ];
 
+const buttonsData = [
+    {
+        buttonNo: 1,
+        text: "filter",
+        icon: "rr-settings-sliders"
+    },
+    {
+        buttonNo: 2,
+        text: "Rating 4.0+"
+    },
+    {
+        buttonNo: 3,
+        text: "Safe and Hygenic"
+    },
+    {
+        buttonNo: 4,
+        text: "Pure Veg"
+    },
+    {
+        buttonNo: 5,
+        text: "Delivery Time",
+        icon: "rr-priority-arrows"
+    },
+    {
+        buttonNo: 6,
+        text: "Great Offers"
+    }
+]
+
 export default function Delivery({ currentCity }) {
     const [slicedResturentData, setSlicedResturentData] = useState([]);
 
@@ -134,7 +163,7 @@ export default function Delivery({ currentCity }) {
 
     return (
         <>
-            <Filter />
+            <Filter buttonsData={buttonsData} />  
             <div>
                 <div style={{ marginTop: "30px", backgroundColor: "rgb(248, 248, 248)" }}>
                     <div className="maxWidth" style={{padding: "40px"}}>
@@ -164,12 +193,12 @@ export default function Delivery({ currentCity }) {
 
                 <div style={{ marginTop: "40px" }} className="maxWidth">
                     <div style={{ fontSize: "25px" }}>Delivery Restaurants in {currentCity}</div>
-                    <div className="resturentList">
+                    <div className={styles.resturentList}>
                         {
                             slicedResturentData && slicedResturentData.map((data, index) => {
-                                return <div className="childResturantList">
+                                return <div className={styles.childResturantList}>
                                     {data.map((resturant, resturantId) => (
-                                        <ResturantCard key={index * 1000 + resturantId} data={resturant} /> 
+                                        <ResturantCard key={index + resturantId} data={resturant} /> 
                                     ))}
                                 </div>
                             })
@@ -214,24 +243,25 @@ function NextArrow(props) {
 
 function ResturantCard({ data }) {
     return (
-        <div className="resturantCardTop">
-            <div className="resturantImage">
+        <div className={styles.resturantCardTop}>
+            <div className={styles.resturantImage}>
                 <img src={data.info.image.url} alt={data.info.name} />
+                {Object.keys(data.bulkOffers).length > 0 && <div className={styles.offerStrip}>{data.bulkOffers[0].text}</div>}
             </div>
-            <div className="flexSpaceBetween">
-                <div className="resturantTitle">{data.info.name}</div>
-                <div className="ratingIcon" style={{ backgroundColor: `#${data.info.rating.rating_color}`, color: "white", fontWeight: "bold" }}>
+            <div className={styles.flexSpaceBetween}>
+                <div className={styles.resturantTitle}>{data.info.name}</div>
+                <div className={styles.ratingIcon} style={{ backgroundColor: `#${data.info.rating.rating_color}`, color: "white", fontWeight: "bold" }}>
                     <span>
                         {(data.info.rating.is_new) ? "New" : data.info.rating.rating_text}
                     </span>
-                    <i className="fi fi-ss-star"></i>
+                    <i className="fi-ss-star"></i>
                 </div>
             </div>
-            <div className="flexSpaceBetween" style={{color: "GrayText", fontSize: "15px"}}>
-                <div className="resturantCuisine">
+            <div className={styles.flexSpaceBetween} style={{color: "GrayText", fontSize: "15px"}}>
+                <div className={styles.resturantCuisine}>
                     {data.info.cuisine.map((cuisine, index) => (`${cuisine.name}${(data.info.cuisine.length === index + 1) ? "" : ", "}`))}
                 </div>
-                <div className="resturantCostText">{data.info.costText.text}</div>
+                <div className={styles.resturantCostText}>{data.info.costText.text}</div>
             </div>
             { !data.info.timing.text && data.order && <div style={{textAlign: "right", marginTop: "10px"}}>{data.order.deliveryTime}</div>}
             { data.info.timing.color && <div style={{color: data.info.timing.color, margin: "10px 0"}}>{data.info.timing.text}</div>}

@@ -34,7 +34,7 @@ function showTheCorrectTab(tabToShow, currentCity) {
         case 0:
             return <Delivery currentCity={currentCity} />
         case 1:
-            return <DinningOut />
+            return <DinningOut currentCity={currentCity} />
         case 2:
             return <NightLife />
         default:
