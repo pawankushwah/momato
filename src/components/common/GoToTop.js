@@ -7,7 +7,6 @@ const ScrollToTop = () => {
   // Check if the user has scrolled down enough to show the "scroll to top" button
   const handleScroll = () => {
     const scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
-    console.log(scrollTop);
     setIsVisible(scrollTop > 1000);
   };
 
@@ -29,7 +28,7 @@ const ScrollToTop = () => {
 
   return (
     <div onClick={scrollToTop} style={{ visibility: (isVisible) ? "visible": "hidden", position: "fixed", bottom: "20px", right: "20px", cursor: "pointer", backgroundColor: "red", color: "white", borderRadius: "100%", padding: "20px", fontSize: "25px" }}>
-      <i class="fi fi-sr-angle-up"></i>
+      <i className="fi fi-sr-angle-up"></i>
     </div>
   );
 };

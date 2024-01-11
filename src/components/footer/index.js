@@ -1,152 +1,151 @@
-import { useState } from "react"
+const footerData = {
+    appLogo: {
+        title: "momato",
+        image: ""
+    },
+    availableCountry: [
+        {
+            name: "India",
+            flagImage: "india.png"
+        }
+    ],
+    availableLanguage: [
+        {
+            name: "Hindi"
+        },
+        {
+            name: "English"
+        }
+    ],
+    pagesLinksData: {
+        aboutZomato: {
+            heading: "ABOUT ZOMATO",
+            links: [
+                {
+                    title: "Who We Are",
+                    href: "#hello"
+                },
+                {
+                    title: "Blog",
+                    href: "#"
+                },
+                {
+                    title: "Work With Us",
+                    href: "#"
+                },
+                {
+                    title: "Investor Relations",
+                    href: "#"
+                },
+                {
+                    title: "Report Fraud",
+                    href: "#"
+                },
+                {
+                    title: "Press Kit",
+                    href: "#"
+                },
+                {
+                    title: "Contact Us",
+                    href: "#"
+                }
+            ]
+        },
+        zomaverse: {
+            heading: "zomaverse",
+            links: [
+                {
+                    title: "Zomato",
+                    href: "#"
+                },
+                {
+                    title: "Binkit",
+                    href: "#"
+                },
+                {
+                    title: "Feeding India",
+                    href: "#"
+                },
+                {
+                    title: "Hyperpure",
+                    href: "#"
+                },
+                {
+                    title: "Zomaland",
+                    href: "#"
+                },
+            ]
+        },
+        forResturant: {
+            heading: "for resturant",
+            links: [
+                {
+                    title: "Partner With Us",
+                    href: "#"
+                },
+                {
+                    title: "Apps For You",
+                    href: "#"
+                }
+            ]
+        },
+        forEnterprises: {
+            heading: "for enterprises",
+            links: [
+                {
+                    title: "Zomato For Enterprise",
+                    href: "#"
+                }
+            ]
+        },
+        learnMore: {
+            heading: "Learn More",
+            links: [
+                {
+                    title: "Privacy",
+                    href: "#"
+                },
+                {
+                    title: "Security",
+                    href: "#"
+                },
+                {
+                    title: "Terms",
+                    href: "#"
+                },
+                {
+                    title: "Sitemap",
+                    href: "#"
+                },
+            ]
+        }
+    },
+    socialLinks: {
+        heading: "social links",
+        links: {
+            instagram: "",
+            linkedIn: "",
+            twitter: "",
+            youtube: "",
+            facebook: ""
+        },
+    },
+    installApp: [
+        {
+            title: "Google Play Store",
+            link: "#"
+        },
+        {
+            title: "Apple App Store",
+            link: "#"
+        }
+    ],
+    legal:{
+        copyrightText: "By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2024 © Zomato™ Ltd. All rights reserved."
+    }
+};
 
 export default function Footer() {
-    const [footerData, setFooterData] = useState({
-        appLogo: {
-            title: "momato",
-            image: ""
-        },
-        availableCountry: [
-            {
-                name: "India",
-                flagImage: "india.png"
-            }
-        ],
-        availableLanguage: [
-            {
-                name: "Hindi"
-            },
-            {
-                name: "English"
-            }
-        ],
-        pagesLinksData: {
-            aboutZomato: {
-                heading: "ABOUT ZOMATO",
-                links: [
-                    {
-                        title: "Who We Are",
-                        href: "#hello"
-                    },
-                    {
-                        title: "Blog",
-                        href: "#"
-                    },
-                    {
-                        title: "Work With Us",
-                        href: "#"
-                    },
-                    {
-                        title: "Investor Relations",
-                        href: "#"
-                    },
-                    {
-                        title: "Report Fraud",
-                        href: "#"
-                    },
-                    {
-                        title: "Press Kit",
-                        href: "#"
-                    },
-                    {
-                        title: "Contact Us",
-                        href: "#"
-                    }
-                ]
-            },
-            zomaverse: {
-                heading: "zomaverse",
-                links: [
-                    {
-                        title: "Zomato",
-                        href: "#"
-                    },
-                    {
-                        title: "Binkit",
-                        href: "#"
-                    },
-                    {
-                        title: "Feeding India",
-                        href: "#"
-                    },
-                    {
-                        title: "Hyperpure",
-                        href: "#"
-                    },
-                    {
-                        title: "Zomaland",
-                        href: "#"
-                    },
-                ]
-            },
-            forResturant: {
-                heading: "for resturant",
-                links: [
-                    {
-                        title: "Partner With Us",
-                        href: "#"
-                    },
-                    {
-                        title: "Apps For You",
-                        href: "#"
-                    }
-                ]
-            },
-            forEnterprises: {
-                heading: "for enterprises",
-                links: [
-                    {
-                        title: "Zomato For Enterprise",
-                        href: "#"
-                    }
-                ]
-            },
-            learnMore: {
-                heading: "Learn More",
-                links: [
-                    {
-                        title: "Privacy",
-                        href: "#"
-                    },
-                    {
-                        title: "Security",
-                        href: "#"
-                    },
-                    {
-                        title: "Terms",
-                        href: "#"
-                    },
-                    {
-                        title: "Sitemap",
-                        href: "#"
-                    },
-                ]
-            }
-        },
-        socialLinks: {
-            heading: "social links",
-            links: {
-                instagram: "",
-                linkedIn: "",
-                twitter: "",
-                youtube: "",
-                facebook: ""
-            },
-        },
-        installApp: [
-            {
-                title: "Google Play Store",
-                link: "#"
-            },
-            {
-                title: "Apple App Store",
-                link: "#"
-            }
-        ],
-        legal:{
-            copyrightText: "By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2008-2024 © Zomato™ Ltd. All rights reserved."
-        }
-    });
 
     return (
         <div style={{ backgroundColor: "#e9e9e9", padding: "30px", marginTop: "30px" }}>
@@ -155,10 +154,7 @@ export default function Footer() {
                     <img src="/logo.png" alt="momato logo" style={{width: "200px"}} />
                     <div>
                         <select style={{padding: "5px", fontSize: "20px", outline: "none", borderRadius: "10px", marginRight: "10px"}}>
-                            {footerData.availableCountry.map((data, index) => <option key={index}>
-                                <img src={`/resources/flags/${data.flagImage}`} alt={data.name} width={200} />
-                                <div>{data.name}</div>
-                            </option> )}
+                            {footerData.availableCountry.map((data, index) => <option key={index}>{data.name}</option> )}
                         </select>
                         
                         <select style={{padding: "5px", fontSize: "20px", outline: "none", borderRadius: "10px", marginRight: "10px"}}>

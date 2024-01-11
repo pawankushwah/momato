@@ -159,7 +159,7 @@ export default function Delivery({ currentCity }) {
             }
         }
         setSlicedResturentData(result);
-    }, [resturantData]);
+    }, []);
 
 
     return (
@@ -197,7 +197,7 @@ export default function Delivery({ currentCity }) {
                     <div className={styles.resturentList}>
                         {
                             slicedResturentData && slicedResturentData.map((data, index) => {
-                                return <div className={styles.childResturantList}>
+                                return <div key={index} className={styles.childResturantList}>
                                     {data.map((resturant, resturantId) => (
                                         <ResturantCard key={index + resturantId} data={resturant} /> 
                                     ))}

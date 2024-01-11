@@ -137,7 +137,7 @@ export default function Delivery({ currentCity }) {
                         <div style={{ fontSize: "25px", marginBottom: "20px" }}>Collections</div>
                         <div style={{display: "flex", justifyContent: "space-between", marginBottom: "20px"}}>
                             <div style={{color: "GrayText"}}>Explore curated lists of top restaurants, cafes, pubs, and bars in Agra, based on trends</div>
-                            <div style={{color: "red", width: "400px", textAlign: "right"}}>All collections in Agra <i class="fi fi-rr-caret-right"></i></div>
+                            <div style={{color: "red", width: "400px", textAlign: "right"}}>All collections in Agra <i className="fi fi-rr-caret-right"></i></div>
                         </div>
                         <Slider {...settings}>
                             {collections && collections.map((data, index) => {
@@ -166,7 +166,7 @@ export default function Delivery({ currentCity }) {
                     <div className={styles.resturentList}>
                         {
                             slicedResturentData && slicedResturentData.map((data, index) => {
-                                return <div className={styles.childResturantList}>
+                                return <div key={index} className={styles.childResturantList}>
                                     {data.map((resturant, resturantId) => (
                                         <ResturantCard key={index * 1000 + resturantId} data={resturant} /> 
                                     ))}
@@ -188,7 +188,7 @@ function Card({ data, path }) {
             <img src={data.imageUrl} alt={data.title} style={{height: "100%", filter: "brightness(0.7)"}} />
             <div style={{position: "absolute", bottom: "0", left: "5px", width: "100%", padding: "10px", fontSize: "13px", color: "white", background: "linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 85%)"}}>
                 <div>{data.placesCount + " " + data.title}</div>
-                <div>{data.placesCount} <i class="fi fi-rr-caret-right"></i></div>
+                <div>{data.placesCount} <i className="fi fi-rr-caret-right"></i></div>
             </div>
         </div>
     )
