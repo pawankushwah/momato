@@ -8,6 +8,7 @@ import NightLife from '../../components/nightLife/index'
 // CSS files for the carousals
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import GoToTop from '../../components/common/GoToTop'
 
 export default function Home() {
     const TABS_DATA = useMemo(() => [
@@ -25,6 +26,7 @@ export default function Home() {
             <TabOptions allTabs={TABS_DATA} activeTab={currentTab} changeActiveTab={setCurrentTab} />
             {showTheCorrectTab(currentTab, AVAILABLE_CITIES[selectedCity])}
             <Footer />
+            <GoToTop />
         </>
     )
 }
