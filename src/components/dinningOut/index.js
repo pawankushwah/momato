@@ -3,6 +3,7 @@ import Filter from "../filter/index"
 import styles from "./style.module.css"
 import resturantData from "./resturant.json"
 import { useEffect, useState } from "react";
+import { EndOfSearch } from "../common/EndOfSearch";
 
 const collections = [
     {
@@ -174,6 +175,8 @@ export default function Delivery({ currentCity }) {
                         }
                     </div>
                 </div>
+
+                <EndOfSearch />
             </div>
         </>
     )
