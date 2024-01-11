@@ -11,7 +11,7 @@
     color: gray;
     display: flex;
     justify-content: center;
-    justify-items: center;
+    align-items: center;
     gap: 10px;
     cursor: pointer;
     font-size: 10px;
