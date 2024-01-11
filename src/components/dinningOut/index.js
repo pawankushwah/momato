@@ -86,7 +86,7 @@ const buttonsData = [
     },
     {
         buttonNo: 3,
-        text: "Tating 4.0+"
+        text: "Rating 4.0+"
     },
     {
         buttonNo: 4,
